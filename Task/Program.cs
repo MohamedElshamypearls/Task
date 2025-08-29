@@ -2,13 +2,6 @@
 
 namespace Task
 {
-
-    public class Ahmed 
-    {
-        public string Elshamt{ get; set; }
-
-    }
-
     internal class Program
     {
         static void Main(string[] args)
