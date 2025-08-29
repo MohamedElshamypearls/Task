@@ -2,6 +2,12 @@
 
 namespace Task
 {
+    public class Elshamy
+    {
+        public string Name { get; set; }
+        public string Age { get; set; }
+        public string Salary { get; set; }
+    }
     internal class Program
     {
         static void Main(string[] args)
