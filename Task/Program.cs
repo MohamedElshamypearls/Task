@@ -178,4 +178,13 @@ namespace Task
             Console.WriteLine($"Area: {Area}");
         }
     }
+
+
+    public class Ahmed
+    {
+        public string Elshamt { get; set; }
+
+    }
+
+
 }
